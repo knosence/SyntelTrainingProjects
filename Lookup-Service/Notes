@@ -1,0 +1,14 @@
+packages are domains that can be used to identify the area you at.
+
+dto - data transfer object
+dao - data access model
+
+
+Step One:
+prepare the pom.xml
+Step Two:
+-rename folders and files to respected needs
+Step Three:
+-Delete all of the Gradle files
+Step four:
+-separating the controller,model,view,services,dao
